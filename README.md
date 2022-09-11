@@ -22,6 +22,6 @@
   <a href = "mailto:alejandrosilveiraramos3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alejandro-silveira-ramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/alejandrosilveiraramos/alejandrosilveiraramos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/alejandrosilveiraramos/alejandrosilveiraramos/blob/main/.github/workflows/snake.yml)
  
 </div>
